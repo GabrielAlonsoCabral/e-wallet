@@ -1,7 +1,7 @@
 # React Native E-Wallet APP
 
 ## Preview
-![](intro.gif)
+![](ewallet.mp4)
 
 ## Usage
 ```
