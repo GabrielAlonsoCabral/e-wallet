@@ -1,6 +1,7 @@
 # React Native E-Wallet APP
 
 ## Preview
+<video src='ewallet.mp4' width=180/>
 ![](ewallet.mp4)
 
 ## Usage
